@@ -1,6 +1,3 @@
-/* Copyright 2017 Openworx.
- * License LGPL-3.0 or later (http://www.gnu.org/licenses/lgpl). */
-
 odoo.define('backend_theme_v13.sidebar-toggle', function (require) {
     "use strict";
     
