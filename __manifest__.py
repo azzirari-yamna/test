@@ -4,9 +4,9 @@
     "version": "13.0.0.1",
     "category": "Theme/Backend",
     "website": "http://www.openworx.nl",
-	'images':[
+    'images': [
         'images/screen.png'
-	],
+    ],
     "author": "Openworx",
     "license": "LGPL-3",
     "installable": True,
@@ -17,11 +17,7 @@
     ],
     "data": [
         'views/assets.xml',
-		'views/res_company_view.xml',
-		#'views/users.xml',
-        #'views/sidebar.xml',
+        'views/res_company_view.xml',
     ],
-    #'live_test_url': 'https://youtu.be/JX-ntw2ORl8'
 
 }
-
